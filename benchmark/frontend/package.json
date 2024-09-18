@@ -12,7 +12,7 @@
   "dependencies": {
     "@prisma/client": "^5.1.1",
     "@t3-oss/env-nextjs": "^0.3.1",
-    "next": "^14.2.4",
+    "next": "^14.2.10",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "tailwind-styled-components": "^2.2.0",
